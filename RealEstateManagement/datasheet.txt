@@ -1,0 +1,13 @@
+Name:Kaloyan Vasilev
+EGN:7709291749
+Address:street 58, Georgi Rakovski
+Properties in possession:
+- street 58, Georgi Rakovski
+- street 31, Sveta Troica
+
+Name:Petia Dobreva
+EGN:9008026435
+Address:street 32, Svoboda
+Properties in possession:
+- Private Property: The Green Hills
+
